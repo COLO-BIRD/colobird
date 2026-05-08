@@ -37,12 +37,12 @@ With servers deployed across **250+ global locations** in Tier-III and Tier-IV e
 | Resource              | Link |
 |-----------------------|------|
 | Main Website          | [https://www.colobird.com](https://www.colobird.com) |
-| Dedicated Servers     | [View Servers](https://www.colobird.com/dedicated-servers/) |
+| Dedicated Servers     | [View Dedicated Servers](https://www.colobird.com/dedicated-servers/) |
 | GPU Servers           | [GPU Servers](https://www.colobird.com/gpu-servers/) |
 | Colocation            | [Colocation](https://www.colobird.com/colocation/) |
-| Client Login          | [Client Area](https://www.colobird.com/billing/) |
+| Client Login          | [Client Area](https://www.billing.colobird.com/index.php?rp=/login) |
 | Blog                  | [Blog](https://www.colobird.com/blog/) |
-| Support / Tickets     | [Open Ticket](https://www.colobird.com/support/) |
+| Support / Tickets     | [Open Ticket](https://www.billing.colobird.com/submitticket.php) |
 
 ## Contact Us
 
@@ -50,8 +50,8 @@ With servers deployed across **250+ global locations** in Tier-III and Tier-IV e
 2081 Harrodsburg Road, Lexington, KY 40504, United States  
 
 - **Email:** sales@colobird.com  
-- **Phone:** +1 218 772 2699  
-- **Support:** [Open a Ticket](https://www.colobird.com/support/)
+- **Phone:** +1 229 800 3303  
+- **Support:** [Open a Ticket](https://www.billing.colobird.com/submitticket.php)
 
 ---
 
