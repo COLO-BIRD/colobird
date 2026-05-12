@@ -47,7 +47,7 @@ With servers deployed across **250+ global locations** in Tier-III and Tier-IV e
 ## Contact Us
 
 **COLO BIRD**  
-2081 Harrodsburg Road, Lexington, KY 40504, United States  
+1050 Connecticut Avenue,Northwest Washington DC,20036  
 
 - **Email:** sales@colobird.com  
 - **Phone:** +1 229 800 3303  
